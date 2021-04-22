@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","metadata":{"generated":1617834603000,"url":"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson","title":"USGS All Earthquakes, Past Month","status":200,"api":"1.10.3","count":10480},
+"features":[
+{"type":"Feature","properties":{"type":"earthquake","title":"Amsterdam"},"geometry":{"type":"Point","coordinates":[4.899431,52.379189,14.67]},"id":"ci39842624"},
+{"type":"Feature","properties":{"type":"earthquake","title":"Amsterdam"},"geometry":{"type":"Point","coordinates":[4.899431,52.379189,14.67]},"id":"ci39842624"},
+{"type":"Feature","properties":{"type":"earthquake","title":"Paris"},"geometry":{"type":"Point","coordinates":[2.349014,48.864716,14.67]},"id":"ci39842624"},
+{"type":"Feature","properties":{"type":"earthquake","title":"Minsk"},"geometry":{"type":"Point","coordinates":[27.567444,53.893009,14.67]},"id":"ci39842624"},
+{"type":"Feature","properties":{"type":"earthquake","title":"Warsaw"},"geometry":{"type":"Point","coordinates":[21.017532,52.237049,14.67]},"id":"ci39842624"},
+{"type":"Feature","properties":{"type":"earthquake","title":"Dresden"},"geometry":{"type":"Point","coordinates":[13.737262,51.050407,14.67]},"id":"ci39842624"}],"bbox":[-179.996,-64.3567,-3.66,179.9801,81.6653,630.93]}
